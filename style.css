@@ -499,3 +499,15 @@ footer{
         margin: 12px 0;
     }
 }
+
+.footer__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2rem 0;
+}
+
+a {
+    text-decoration: none;
+}
